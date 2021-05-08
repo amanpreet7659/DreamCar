@@ -1,0 +1,95 @@
+.logo
+{
+    width: 20%;
+    padding: 20px;
+    border-radius: 60px;
+}
+.MuiAppBar-colorPrimary {
+    color: #fff;
+    background-color: #515eee !important;
+}
+
+.Appbar
+{
+
+}
+
+.cGKbZh {
+    box-sizing: border-box;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    font-size: 1.6em;
+    background-color: rgba(103,58,183,0.1);
+    color: #333;
+    box-shadow: 0 0 2px 0px #333;
+    border-radius: 50%;
+    border: none;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+    line-height: 50px;
+    opacity: 0.2;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    cursor: pointer;
+    outline: none;
+}
+
+.ehkxHv {
+    box-sizing: border-box;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    font-size: 1.6em;
+    background-color: rgba(103,58,183,0.1);
+    color: #999;
+    box-shadow: 0 0 2px 0px #333;
+    border-radius: 50%;
+    border: none;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+    line-height: 50px;
+    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    align-self: center;
+    cursor: pointer;
+    outline: none;
+    opacity: 0.2;
+}
+
+.jLgnwX {
+    opacity: 1;
+    box-sizing: border-box;
+    padding: 0;
+    -webkit-transition: all 250ms ease;
+    transition: all 250ms ease;
+    border: none;
+    margin: 5px;
+    background-color: transparent;
+    font-size: 1.3em;
+    content: "";
+    height: 10px;
+    width: 10px;
+    box-shadow: 0 0 1px 2px rgb(206 42 42 / 50%) !important;
+    border-radius: 50%;
+    outline: none;
+}
+.ejXxNI { 
+    box-sizing: border-box;
+    padding: 0;
+    -webkit-transition: all 250ms ease;
+    transition: all 250ms ease;
+    border: none;
+    margin: 5px;
+    background-color: rgb(206 42 42 / 50%);
+    font-size: 1.3em;
+    content: "";
+    height: 10px;
+    width: 10px;
+    box-shadow: 0 0 1px 3px rgb(206 42 42 / 50%) !important;
+    border-radius: 50%;
+    outline: none;
+}

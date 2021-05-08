@@ -1,0 +1,53 @@
+.carousel {
+    font-family    : sans-serif;
+    display        : flex;
+    flex-direction : column;
+    align-items    : center;
+    justify-content: center;
+    height         : 110vh;
+    position       : relative;
+}
+
+.seperator {
+    width: 100%;
+}
+
+.controls-wrapper {
+    width: 100%;
+}
+
+.carousel-wrapper {
+    width    : 100%;
+    /* height: auto; */
+}
+
+.rec-carousel-item:focus {
+    outline   : none;
+    box-shadow: inset 0 0 1px 0px violet;
+}
+
+.images {
+    width : 100%;
+    height: auto;
+}
+
+.bqdePq {
+    display                : -webkit-box;
+    display                : -webkit-flex;
+    display                : -ms-flexbox;
+    display                : flex;
+    -webkit-box-pack       : center;
+    -webkit-justify-content: center;
+    -ms-flex-pack          : center;
+    justify-content        : center;
+    -webkit-align-items    : center;
+    -webkit-box-align      : center;
+    -ms-flex-align         : center;
+    align-items            : center;
+    height                 : 600px !important;
+    width                  : 100%;
+    background-color       : white !important;
+    color                  : #fff;
+    margin                 : 15px;
+    font-size              : 4em;
+}
